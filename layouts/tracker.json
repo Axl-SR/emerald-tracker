@@ -45,6 +45,13 @@
 								"v_alignment": "center",
 								"key": "setting_grid"
 							}
+							{
+							"title": "Eastern Sea",
+							"content": {
+								"type": "map",
+								"maps": ["easternsea"]
+							}
+						},
 						},
 						{
 							"type": "group",
