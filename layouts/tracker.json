@@ -137,6 +137,13 @@
 								"type": "map",
 								"maps": ["victoryroad"]
 							}
+							{
+							"title": "Eastern Sea",
+							"content": {
+								"type": "map",
+								"maps": ["easternsea"]
+							}
+						},
 						},
 						{
 							"title": "Rt. 132-134",
