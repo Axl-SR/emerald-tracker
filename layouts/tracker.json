@@ -136,6 +136,12 @@
 							"content": {
 								"type": "map",
 								"maps": ["victoryroad"]
+							},
+							{
+							"title": "Eastern Sea",
+							"content": {
+								"type": "map",
+								"maps": ["easternsea"]
 							}
 						},
 						{
